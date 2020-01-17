@@ -266,7 +266,15 @@ career here, you'll have to answer the following:
   slightly different things running on all of them. How could containers help us
   improve this situation?
 
-Answer both of these questions (baseline ~5 sentences) here in text.
+
+* Whether you can build with (import and use) or extend on the code (as a developer
+  adding more to the codebase), as this defines whether code is actually suited for
+  (re-)use by other users.
+
+* A container is a minimal virtual operating system, complete with all the software
+  needed to run the desired application. Because they pack everything together, they
+  are truly identical to run regardless of host.
+  
 
 ### Part 8 - Turn it in!
 
